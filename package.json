@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "this is about express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshSaini2005/Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshSaini2005/Express/issues"
+  },
+  "homepage": "https://github.com/HarshSaini2005/Express#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
